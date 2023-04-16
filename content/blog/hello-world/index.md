@@ -1,69 +1,13 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Hello World，我的个人博客
+date: "2023-04-01T22:12:03.284Z"
+description: "Hello World，我的个人博客"
 ---
 
-This is my first post on my new fake blog! How exciting!
+折腾了好几天，这个算是第一篇吧， 想尝试用一下Gatsby 来搭建个人网站。
 
-I'm sure I'll write a lot more interesting things in the future.
+有一说一， Gatsby 在国内，应用并不算广泛，原因无非是Vue.js非常之火， 大量前端都使用Vue技术，对于React则并不算热衷。另外就是个人网站系统没有前景， 没几个人在认真维护。
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+不过， 我对此并不认同。我见过几个使用Gatsby搭建的网站，其网站表现都非常不错， 性能和维护的成本，好到令人难以置信， 因此，我有志于采用Gatsby，来搭建我自己的个人网站。 
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
 
-![Chinese Salty Egg](./salty_egg.jpg)
-
-You can also write code blocks here!
-
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
-
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
-
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
-
-This is a paragraph.
-
-    This is a paragraph.
-
-# Header 1
-
-## Header 2
-
-    Header 1
-    ========
-
-    Header 2
-    --------
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
