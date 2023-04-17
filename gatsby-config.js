@@ -18,6 +18,7 @@ module.exports = {
     siteUrl: `http://zwchen.com`,
     social: {
       twitter: `zwchen`,
+      github: `hintcnuie`
     },
   },
   plugins: [
