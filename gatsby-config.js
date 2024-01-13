@@ -11,11 +11,11 @@ module.exports = {
   siteMetadata: {
     title: `zwchen的技术沉淀`,
     author: {
-      name: `zwchen`,
-      summary: `现居北京，喜欢研究各种好玩的技术`,
+      name: `陈郑伟`,
+      summary: `LFAPAC 中国开源布道者团队技术布道师，开源教育大使，现居北京，喜欢研究云原生、Web Assembly等各种好玩的技术`,
     },
     description: `个人的博客网站，记录和介绍个人的技术路线.`,
-    siteUrl: `http://zwchen.com`,
+    siteUrl: `http://www.zwchen.com`,
     social: {
       twitter: `zwchen`,
       github: `hintcnuie`

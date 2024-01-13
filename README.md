@@ -40,11 +40,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-## 🚀 Quick start (Netlify)
 
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
-
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
 
 ## 🧐 What's inside?
 
@@ -92,8 +88,11 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[Build, Deploy, and Host On Netlify](https://netlify.com)
+Build, Deploy: 
 
-The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web. And also the best place to build, deploy, and host your Gatsby sites.
+ ```shell
+    cd my-blog-starter/
+    gatsby build
+    ```
 
 <!-- AUTO-GENERATED-CONTENT:END -->
